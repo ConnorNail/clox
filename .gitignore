@@ -1,0 +1,17 @@
+# Object files
+*.o
+
+# Executables (your TARGET names, plus default a.out)
+clox
+a.out
+
+# Dependency files (if you auto-generate .d files)
+*.d
+
+# Backup/temp files
+*~
+*.swp
+*.bak
+
+# Core dumps
+core
